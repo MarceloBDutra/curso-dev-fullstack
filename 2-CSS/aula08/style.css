@@ -1,0 +1,24 @@
+body{
+    background-color:azure;
+    font-family: Arial, Helvetica, 'Courier New', sans-serif;
+    color: black;
+}
+    
+
+.foto {
+    border: 2px solid #ffffff; /*shorthand*/
+    border-radius: 50%;
+    margin: 30px 30px 30px 30px;
+    box-shadow: 0px 0px 10px #00000063;
+}
+h1{
+margin-bottom: 0;
+letter-spacing: -1px;
+}
+h2{
+margin-top: 0;
+font-style: italic;
+color: rgb(110, 89, 89);
+font-weight: 200;
+letter-spacing: -1px;
+}

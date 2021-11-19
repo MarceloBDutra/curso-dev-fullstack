@@ -1,0 +1,14 @@
+body{
+    background-color:azure
+}
+
+p{
+    color: black;
+}
+.foto {
+    border: 5px solid #ffffff; /*shorthand*/
+    border-radius: 50%; 
+    margin: 30px 30px 30px 30px;
+    padding: 10px;
+
+}
